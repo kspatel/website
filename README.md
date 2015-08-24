@@ -1,2 +1,5 @@
+#Disclaimer:
+Github account moved to https://github.com/kishan
+
 ## Personal Website
-http://kspatel.github.io/website
+http://kishan.github.io/website
